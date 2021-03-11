@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Parisienne&display=swap');
+
+nav {
+    height: 80px;
+}
+
+
+
+#navbarNavAltMarkup {
+    justify-content: flex-end;
+
+}
+
+.navbar-brand {
+    font-family: 'Parisienne', cursive;
+    font-size: 35px;
+}
+
+.navbar-nav {
+    font-size: 25px;
+}
+
+.card {
+    display: flex;
+    flex-direction: row;
+    display: inline-block;
+    text-align: center;
+    margin-left: 120px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    
+}
+
+#portafolio{
+    text-align: center;
+    font-size: 40px;
+    margin-top: 20px;
+}
+
+#skillset {
+    text-align: center;
+    font-size: 40px;
+    margin-top: 20px;
+}
+
+h5 {
+    font-size: 50px;
+}
+
+p {
+    font-size: 30px;
+}
